@@ -1,1 +1,6 @@
-This is file for the game hacke.
+int max(int a,int b)
+{
+	if(a>b)
+		return a;
+	return b;
+}
